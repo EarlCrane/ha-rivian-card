@@ -49,16 +49,16 @@ All features of this card are visual alerts in nature. The following list will g
 2. Modify the base R1T model based on your Rivian color (replace [rt1-launch-green.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-launch-green.png) with [rt1-rivian-blue.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-rivian-blue.png)).
     - For instance, if you want to have your Home Assistant Rivian model to match your a specific color of your choosing.
     - Base Model Colors Supported and have the following image file name schema `https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-<color-name>.png`
-        - [rt1-launch-green.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-launch-green.png)
-        - [rt1-rivian-blue.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-rivian-blue.png)
-        - [rt1-el-cap-granite.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-el-cap-granite.png)
-        - [rt1-la-silver.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-launch-green.png)
-        - [rt1-midnight.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-midnight.png)
-        - [rt1-forest-green.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-forest-green.png)
-        - [rt1-compass-yellow.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-compass-yellow.png)
-        - [rt1-canyon-red.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-canyon-red.png)
-        - [rt1-limestone.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-limestone.png)
-        - [rt1-glacier-white.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-glacier-white.png)
+        - [r1t-launch-green.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-launch-green.png)
+        - [r1t-rivian-blue.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-rivian-blue.png)
+        - [r1t-el-cap-granite.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-el-cap-granite.png)
+        - [r1t-la-silver.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-launch-green.png)
+        - [r1t-midnight.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-midnight.png)
+        - [r1t-forest-green.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-forest-green.png)
+        - [r1t-compass-yellow.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-compass-yellow.png)
+        - [r1t-canyon-red.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-canyon-red.png)
+        - [r1t-limestone.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-limestone.png)
+        - [r1t-glacier-white.png](https://github.com/tmack8001/ha-rivian-card/blob/main/images/r1t/r1t-glacier-white.png)
 
 3. (optional: for `rivian-charging-card`) To change between R1T and R1S models perform a find/replace on `r1t` => `r1s`. Old and new entity names are https://github.com/bretterer/home-assistant-rivian/releases/tag/0.9.0 and for older installs similar to no. 3 above some replacements may be required.
 
